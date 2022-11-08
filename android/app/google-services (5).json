@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22096968900",
+    "project_id": "easy-jobs-a8777",
+    "storage_bucket": "easy-jobs-a8777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22096968900:android:0c44cb01382277582ddd91",
+        "android_client_info": {
+          "package_name": "com.example.easyjobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22096968900-3ms530lsmpj4lcde9kbt8s0a4fsggkgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxkaUCfKAeiANKqEw_LXgFtymFyhSOquQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22096968900-3ms530lsmpj4lcde9kbt8s0a4fsggkgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
